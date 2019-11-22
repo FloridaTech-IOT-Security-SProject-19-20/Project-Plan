@@ -7,7 +7,7 @@
 
 [Milestone 2 Folder](./Milestone%202)
 
-[Milestone 3 Presentation](./Milestone%203/Milestone%203%20presentation.pdf) -- November 25th 2019
+[Milestone 3 Presentation](./Milestone%203/Milestone%203%20Presentation.pdf) -- November 25th 2019
 
 [Milestone 3 Folder](./Milestone%203)
 
