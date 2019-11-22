@@ -1,15 +1,15 @@
 # IoT Sensor Blinding
-[Milestone 1 Presentation](https://github.com/FloridaTech-IOT-Security-SProject-19-20/Project-Plan/blob/master/Milestone%201%20Presentation.pptx) -- September 30th 2019
+[Milestone 1 Presentation](./Milestone%201/Milestone%201%20Presentation.pptx) -- September 30th 2019
 
-[Milestone 1 Folder](https://github.com/FloridaTech-IOT-Security-SProject-19-20/Project-Plan/tree/master/Milestone%201)
+[Milestone 1 Folder](./Milestone%201)
 
-[Milestone 2 Presentation](https://github.com/FloridaTech-IOT-Security-SProject-19-20/Project-Plan/blob/master/Milestone%202%20Presentation.pdf) -- October 28th 2019
+[Milestone 2 Presentation](./Milestone%202/Milestone%202%20Presentation.pdf) -- October 28th 2019
 
-[Milestone 2 Folder](https://github.com/FloridaTech-IOT-Security-SProject-19-20/Project-Plan/tree/master/Milestone%202)
+[Milestone 2 Folder](./Milestone%202)
 
-[Milestone 3 Presentation](https://github.com/FloridaTech-IOT-Security-SProject-19-20/Project-Plan/blob/master/Milestone%203%20presentation) -- November 25th 2019
+[Milestone 3 Presentation](./Milestone%203/Milestone%203%20presentation.pdf) -- November 25th 2019
 
-[Milestone 3 Folder](https://github.com/FloridaTech-IOT-Security-SProject-19-20/Project-Plan/tree/master/Milestone%203)
+[Milestone 3 Folder](./Milestone%203)
 
 ## Team Members:
 
