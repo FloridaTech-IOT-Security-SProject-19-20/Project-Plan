@@ -9,6 +9,8 @@
 
 [Milestone 3 Presentation](https://github.com/FloridaTech-IOT-Security-SProject-19-20/Project-Plan/blob/master/Milestone%203%20presentation) -- November 25th 2019
 
+[Milestone 3 Folder](https://github.com/FloridaTech-IOT-Security-SProject-19-20/Project-Plan/tree/master/Milestone%203)
+
 ## Team Members:
 
 - Cole Clements (cclements2016@my.fit.edu)
