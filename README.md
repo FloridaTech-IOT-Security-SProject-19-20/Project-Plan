@@ -11,6 +11,18 @@
 
 [Milestone 3 Folder](./Milestone%203)
 
+[Milestone 4 Presentation](./) -- Febuary 17th 2020
+
+[Milestone 4 Folder](./Milestone%204)
+
+[Milestone 5 Presentation](./) -- March 23th 2020
+
+[Milestone 5 Folder](./Milestone%205)
+
+[Milestone 6 Presentation](./) -- April 20th 2020
+
+[Milestone 6 Folder](./Milestone%206)
+
 ## Team Members:
 
 - Cole Clements (cclements2016@my.fit.edu)
