@@ -11,6 +11,8 @@
 
 [Milestone 3 Folder](./Milestone%203)
 
+[Second Semester Project Plan](./Project%20Plan%202nd%20Semester/Project%20Plan%20Presentation.pdf)
+
 [Milestone 4 Presentation](./Milestone%204/Milestone%204%20Presentation.pdf) -- February 17th 2020
 
 [Milestone 4 Folder](./Milestone%204)
