@@ -17,11 +17,11 @@
 
 [Milestone 4 Folder](./Milestone%204)
 
-[Milestone 5 Presentation](./) -- March 23th 2020
+[Milestone 5 Presentation](./Milestone%205/Milestone%205%20Presentation.pdf) -- March 23th 2020
 
 [Milestone 5 Folder](./Milestone%205)
 
-[Milestone 6 Presentation](./) -- April 20th 2020
+[Milestone 6 Presentation](./Milestone%206/Milestone%206%20Presentation.pdf) -- April 20th 2020
 
 [Milestone 6 Folder](./Milestone%206)
 
